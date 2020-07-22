@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import { Table, Card, Button, CardTitle, CardText, Row, Col, CardImg } from "reactstrap";
+import { Table, Card, Button, CardTitle, Row, Col } from "reactstrap";
 
 class Product extends Component {
     constructor() {
